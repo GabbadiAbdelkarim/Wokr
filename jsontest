@@ -1,0 +1,110 @@
+[
+  {
+    "technicalId": "cbc2fcc8-6b78-4740-99d5-103182d8a5b6",
+    "name": "PC Belgium",
+    "shortName": "PCBEL",
+    "code": "PCBEL",
+    "translationKey": "ret_stkhr.profit_center.be",
+    "dekraRegionTechnicalId": "706737e3-74e9-4d64-937c-6ba3be9075eb",
+    "dekraRegion": {
+      "technicalId": "706737e3-74e9-4d64-937c-6ba3be9075eb",
+      "name": "North-West Europe",
+      "shortName": "NWE",
+      "translationKey": "ref_int.dekra_region.north_west_europe",
+      "lastUpdateUnixTimestamp": 0
+    },
+    "countryIso3": "bel",
+    "lastUpdateUnixTimestamp": 0,
+    "status": "Active"
+  },
+  {
+    "technicalId": "f9e65688-d025-4174-9c22-432e204284f9",
+    "name": "PC Portugal",
+    "shortName": "PCPTR",
+    "code": "PCPTR",
+    "translationKey": "ret_stkhr.profit_center.pt",
+    "dekraRegionTechnicalId": "27db1dba-6197-4d9a-85f7-a631e0095d50",
+    "dekraRegion": {
+      "technicalId": "27db1dba-6197-4d9a-85f7-a631e0095d50",
+      "name": "South-West Europe",
+      "shortName": "SWE",
+      "translationKey": "ref_int.dekra_region.south-west-europe",
+      "lastUpdateUnixTimestamp": 0
+    },
+    "countryIso3": "ptr",
+    "lastUpdateUnixTimestamp": 0,
+    "status": "Active"
+  },
+  {
+    "technicalId": "a2f488df-c8ed-4dfb-ad0f-241755e94cd4",
+    "name": "PC Italy",
+    "shortName": "PCITA",
+    "code": "PCITA",
+    "translationKey": "ret_stkhr.profit_center.it",
+    "dekraRegionTechnicalId": "b791393d-4d32-4e2f-9376-ca32b8b928bd",
+    "dekraRegion": {
+      "technicalId": "b791393d-4d32-4e2f-9376-ca32b8b928bd",
+      "name": "Central East Europe & Middle East",
+      "shortName": "CEE&ME",
+      "translationKey": "ref_int.dekra_region.central_east_europe_and_middle_east",
+      "lastUpdateUnixTimestamp": 0
+    },
+    "countryIso3": "ita",
+    "lastUpdateUnixTimestamp": 0,
+    "status": "Active"
+  },
+  {
+    "technicalId": "b3f5d240-49bf-4fc4-9d6f-3700da25cce4",
+    "name": "PC Spain",
+    "shortName": "PCESP",
+    "code": "PCESP",
+    "translationKey": "ret_stkhr.profit_center.es",
+    "dekraRegionTechnicalId": "27db1dba-6197-4d9a-85f7-a631e0095d50",
+    "dekraRegion": {
+      "technicalId": "27db1dba-6197-4d9a-85f7-a631e0095d50",
+      "name": "South-West Europe",
+      "shortName": "SWE",
+      "translationKey": "ref_int.dekra_region.south-west-europe",
+      "lastUpdateUnixTimestamp": 0
+    },
+    "countryIso3": "esp",
+    "lastUpdateUnixTimestamp": 0,
+    "status": "Active"
+  },
+  {
+    "technicalId": "e657ec1d-5992-4903-8240-ed37eea852d8",
+    "name": "PC Germany",
+    "shortName": "PCGER",
+    "code": "PCGER",
+    "translationKey": "ret_stkhr.profit_center.ger",
+    "dekraRegionTechnicalId": "0fdf1159-c66a-49f9-ac82-7861513afd98",
+    "dekraRegion": {
+      "technicalId": "0fdf1159-c66a-49f9-ac82-7861513afd98",
+      "name": "Germany",
+      "shortName": "GER",
+      "translationKey": "ref_int.dekra_region.germany",
+      "lastUpdateUnixTimestamp": 0
+    },
+    "countryIso3": "deu",
+    "lastUpdateUnixTimestamp": 0,
+    "status": "Active"
+  },
+  {
+    "technicalId": "ac4e16f1-e5f5-4d79-a6b7-b037f58b9639",
+    "name": "PC France",
+    "shortName": "PCFRA",
+    "code": "PCFRA",
+    "translationKey": "ret_stkhr.profit_center.fra",
+    "dekraRegionTechnicalId": "b791393d-4d32-4e2f-9376-ca32b8b928bd",
+    "dekraRegion": {
+      "technicalId": "b791393d-4d32-4e2f-9376-ca32b8b928bd",
+      "name": "Central East Europe & Middle East",
+      "shortName": "CEE&ME",
+      "translationKey": "ref_int.dekra_region.central_east_europe_and_middle_east",
+      "lastUpdateUnixTimestamp": 0
+    },
+    "countryIso3": "fra",
+    "lastUpdateUnixTimestamp": 0,
+    "status": "Active"
+  }
+]
